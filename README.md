@@ -83,3 +83,6 @@ resource "aws_s3_bucket" "my_bucket" {
   bucket = "my-unique-bucket-nishant" # Use a globally unique name
   acl    = "private"
 }
+
+
+![alt text](image.png)
