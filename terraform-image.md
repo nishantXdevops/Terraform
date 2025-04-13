@@ -1,1 +1,3 @@
 https://www.google.com/imgres?q=%20terraform%20%20architecture%20image%20hd&imgurl=https%3A%2F%2Fspaceliftio.wpcomstaging.com%2Fwp-content%2Fuploads%2F2023%2F03%2Fterraform-architecture-diagram.png&imgrefurl=https%3A%2F%2Fspacelift.io%2Fblog%2Fterraform-architecture&docid=_u_V_PhwXgSMZM&tbnid=T1Z_c2Ck39aOVM&vet=12ahUKEwiRu9W8n9SMAxXTUGwGHTsvLXAQM3oECBgQAA..i&w=1181&h=558&hcb=2&ved=2ahUKEwiRu9W8n9SMAxXTUGwGHTsvLXAQM3oECBgQAA
+
+![alt text](Untitled.png)
