@@ -1,1 +1,1 @@
-https://www.google.com/imgres?q=terraform%20work%20image%20download&imgurl=https%3A%2F%2Fwww.whizlabs.com%2Fblog%2Fwp-content%2Fuploads%2F2021%2F04%2FTerraform-1.png&imgrefurl=https%3A%2F%2Fwww.whizlabs.com%2Fblog%2Fwhat-is-terraform-terraform-tutorial%2F&docid=XtC4ZsVOUAxy9M&tbnid=y0IfNzGHLtDKIM&vet=12ahUKEwjI8KHEm9SMAxWUT2wGHQ2ONhgQM3oECGQQAA..i&w=2240&h=1260&hcb=2&ved=2ahUKEwjI8KHEm9SMAxWUT2wGHQ2ONhgQM3oECGQQAA
+https://www.google.com/imgres?q=infrastructure%20as%20code%20terraform%20work%20image%20download%20hd&imgurl=https%3A%2F%2Flh5.googleusercontent.
