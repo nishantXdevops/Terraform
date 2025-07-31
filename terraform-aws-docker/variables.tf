@@ -15,7 +15,7 @@ variable "ami_id" {
 
 variable "key_name" {
   type    = string
-  default = "nishant"
+  default = "nishant-hp-key"
 }
 
 variable "bucket" {

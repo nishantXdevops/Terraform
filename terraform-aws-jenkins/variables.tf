@@ -5,7 +5,7 @@ variable "instance_type" {
 
 variable "key_name"{
     type = string
-    default = "nishant"
+    default = "nishant-hp-key"
 }
 
 variable "ami_id"{

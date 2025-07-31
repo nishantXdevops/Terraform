@@ -1,9 +1,20 @@
 provider "aws" {
-  region = var.region
+  region = var.aws_region
+}
+
+resource "aws_instance" "example" {
+    ami = var.ami_id
+    instance_type = var.instance_type
+    key_name = var.key_name
+    # user_data = file("userdata.sh")
+
+ tags = {
+    Name = var.instance_name
+  }
 }
 
 resource "aws_security_group" "my_sg" {
-  name        = "jenkins-security-group"
+  name        = "test-security-group"
   description = "Allow SSH and HTTP"
 
   ingress {
@@ -19,13 +30,13 @@ resource "aws_security_group" "my_sg" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
- 
+
   ingress {
     from_port   = 8080
     to_port     = 8080
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
-  }
+ }
  
   egress {
     from_port   = 0
@@ -38,16 +49,3 @@ resource "aws_security_group" "my_sg" {
     Name = "nishant-Security-Group"
   }
 }
-
-resource "aws_instance" "example" {
-    ami = var.ami_id
-    instance_type = var.instance_type
-    key_name = var.key_name
-    user_data = file("userdata.sh")
-
- tags = {
-    Name = var.instance_name
-  }
-}
-
- 
